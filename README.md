@@ -1,4 +1,4 @@
-! [Minha capa] (./banner.jpg)
+! [Minha capa] (./jennie.jpg)
 
 <!--
 **Emi1lly1/Emi1lly1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
