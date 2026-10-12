@@ -1,1 +1,1 @@
-![Minha capa](./jennie.jpg)
+![Minha capa](./jenniiie.jpg)
